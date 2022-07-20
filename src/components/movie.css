@@ -1,0 +1,9 @@
+.image-container {
+    /* display: flex!important; may be not needed */
+    width: fit-content;
+    margin: 8px !important;
+    /* height: fit-content !important; chota bada image aara tha*/ 
+}
+.image-container img{
+    width: 7rem;
+}
